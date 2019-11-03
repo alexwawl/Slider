@@ -1,0 +1,2 @@
+# Slider
+🤦‍♂️React Touch Slider
