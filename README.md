@@ -2,6 +2,7 @@
 🤦‍♂️React Touch Slider
 
 
+![Example](https://media.giphy.com/media/LOFHl9KZrSRJeaW7i7/giphy.gif)
 ## Available Scripts
 
 In the project directory, you can run:
