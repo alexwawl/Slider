@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Paris",
+    "color": "#3fa7aa",
+    "imgSrc": "/img/Paris.jpg"
+  },
+  {
+    "title": "New York",
+    "color": "#f4baad",
+    "imgSrc": "/img/NYC.jpg"
+  },
+  {
+    "title": "London",
+    "color": "#ff559c",
+    "imgSrc": "/img/London.jpg"
+  },
+  {
+    "title": "Singapore",
+    "color": "#a7f3db",
+    "imgSrc": "/img/Singapore.jpg"
+  },
+  {
+    "title": "Amsterdam",
+    "color": "#25a4ff",
+    "imgSrc": "/img/Amsterdam.jpg"
+  },
+  {
+    "title": "Tokyo",
+    "color": "#bebe95",
+    "imgSrc": "/img/Tokyo.jpg"
+  },
+  {
+    "title": "San Francisco",
+    "color": "#aa96a4",
+    "imgSrc": "/img/SF.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+.sliderWrapper {
+  margin: 0 1em;
+  padding: 1em;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  transform-origin: 0 180%;
+  transition-property: opacity, transform;
+  transition-duration: 1s;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1)
+}
+
+.content {
+  box-sizing: border-box;
+  padding: 50% 0;
+}
+
+.footer {
+  color: #333;
+  font-weight: 700;
+  font-size: 1.25em;
+  text-align: center;
+  padding: 1em;
+}
+
+.footer .header {
+  background-color: rgba(255,255,224,1);
+  border-bottom: 1px solid red;
+  padding: 5px;
+  font-family: monospace;
+}
