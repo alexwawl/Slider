@@ -9,13 +9,16 @@ const Slide = ({ children, translate, transition, color, imageSrc }) => {
   const [width, updateWidth] = useState(1);
 
   useEffect(() => {
-     const parent = container.current.parentElement;
+    setTimeout(() => {
+      const parent = container.current.parentElement;
       updateOffsetLeft(parent.offsetLeft);
       updateWidth(parent.offsetWidth);
+    }, 0)
   }, []);
 
   const x = -translate - offsetLeft;
   const coef = 1 - x / width; 
+
 
   const style = x >= -1 ? {
     opacity: coef < 0 ? 0 : 1 ,
