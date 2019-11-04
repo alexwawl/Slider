@@ -2,7 +2,7 @@
 🤦‍♂️React Touch Slider
 
 
-![Example](https://media.giphy.com/media/LOFHl9KZrSRJeaW7i7/giphy.gif)
+![Example](https://media.giphy.com/media/fvHSyAErlq710lk4AX/giphy.gif)
 
 ### `npm start`
 
